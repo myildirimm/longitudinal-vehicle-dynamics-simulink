@@ -4,6 +4,9 @@
 clear;
 clc;
 
+%Model parameters
+run(fullfile(repoRoot, "scripts", "setup_parameters.m"));
+
 repoRoot = fileparts(fileparts(mfilename('fullpath')));
 addpath(genpath(repoRoot));
 
