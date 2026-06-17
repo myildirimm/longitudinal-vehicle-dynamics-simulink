@@ -28,6 +28,7 @@ data/       Example input data
 docs/       Model equations and documentation
 tests/      Basic validation and test scripts
 paper/      JOSS paper files
+```
 
 ## Citation
 
