@@ -3,7 +3,7 @@ message: "If you use this model in your research or teaching, please cite it as 
 title: "Longitudinal Vehicle Dynamics: An Open MATLAB/Simulink Model for Vehicle Traction, Braking, and Speed-Control Studies"
 authors:
 
-* family-names: "Yildirim"
+- family-names: "Yildirim"
   given-names: "Mustafa"
   doi: "10.5281/zenodo.20732476"
   repository-code: "https://github.com/myildirimm/longitudinal-vehicle-dynamics-simulink"
