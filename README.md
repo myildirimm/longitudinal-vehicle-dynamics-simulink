@@ -28,3 +28,20 @@ data/       Example input data
 docs/       Model equations and documentation
 tests/      Basic validation and test scripts
 paper/      JOSS paper files
+
+## Citation
+
+If you use this model in academic work, please cite it as:
+
+Yildirim, M. (2026). *Longitudinal Vehicle Dynamics: An Open MATLAB/Simulink Model for Vehicle Traction, Braking, and Speed-Control Studies*. Zenodo. https://doi.org/10.5281/zenodo.20732476
+
+```bibtex
+@software{yildirim_longitudinal_vehicle_dynamics_2026,
+  author    = {Yildirim, Mustafa},
+  title     = {Longitudinal Vehicle Dynamics: An Open MATLAB/Simulink Model for Vehicle Traction, Braking, and Speed-Control Studies},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20732476},
+  url       = {https://doi.org/10.5281/zenodo.20732476}
+}
+```
